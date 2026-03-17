@@ -49,3 +49,4 @@ Makefile
 /build*/
 /out/
 /cmake-build*/
+.DS_Store
